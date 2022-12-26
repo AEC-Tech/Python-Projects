@@ -1,0 +1,21 @@
+Car No.,Car Name,Brand,Branch,Fuel Type,Cost,Category
+101.0,XF,Jaguar,Dum Dum,Petrol,1500.0,Sedan
+102.0,Benz-GLS,Mercedes,Kolkata,Petrol,1200.0,SUV
+103.0,XC90,Volvo,Rajarhat,Diesel,1100.0,SUV
+104.0,A8,Audi,Rajarhat,Petrol,1400.0,Sedan
+105.0,Benz V-Class,Mercedes,New Town,Diesel,2500.0,MUV
+106.0,M5,BMW,New Town,Petrol,2900.0,Sedan
+107.0,Fortuner,Toyota,Kolkata,Petrol,1650.0,SUV
+108.0,Tiguan AllSpace,Volksvagen,Dum Dum,Diesel,1400.0,SUV
+109.0,S60,Volvo,Rajarhat,Petrol,1300.0,Sedan
+110.0,Seltos,Kia,Dum Dum ,Diesel,900.0,SUV
+111.0,Hector,MG,Kolkata,Diesel,850.0,SUV
+112.0,A4,Audi,Dum Dum,Petrol,1200.0,Sedan
+113.0,GLC,Mercedes,Kolkata,Petrol,1700.0,SUV
+114.0,Sonet,Kia,New Town,Diesel,1100.0,SUV
+115.0,F-Pace,Jaguar,New Town,Petrol,2700.0,SUV
+116.0,335I,BMW,Dum Dum,Petrol,2200.0,Sedan
+117.0,X6,BMW,Kolkata,Diesel,3500.0,SUV
+118.0,Vellfire,Toyota,Kolkata,Petrol,2100.0,MUV
+119.0,iX,BMW,New Town,Electric,2700.0,SUV
+120.0,Compass,Jeep,Rajarhat,Diesel,900.0,SUV

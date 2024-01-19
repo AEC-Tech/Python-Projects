@@ -1,10 +1,12 @@
 Name,Cost,Quantity,Ingredient
-Kaju Katli,800,10.0,Kaju & Khoya
+Kaju Katli,800,10.0,Kaju
 Ladoo,400,16.0,Boondi
 Ghewar,800,8.0,Khoya
 Gujia,600,8.0,Mawa
 Rasgulla,560,9.0,Paneer
 Gulab Jamun,550,3.0,Khoya
 Ladoo,340,5.0,Besan
-Cake,900,8.0,"Maida,Dates,Wallnuts"
-Gajar Ka Halwa,1000,7.0,"Gajar,Khoya,Milk"
+Cake,900,8.0,Maida
+Gajar Ka Halwa,500,7.0,Gajar
+Petha,240,5.0,Ash Gourd
+Besan Ladoo,320,4.0,Besan
